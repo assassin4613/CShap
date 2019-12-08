@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter9\파일다루기\직렬화\obj\Debug\직렬화.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter9\파일다루기\직렬화\bin\Debug\직렬화.exe.config
+E:\강의자료\C#\Chapter9\파일다루기\직렬화\bin\Debug\직렬화.exe
+E:\강의자료\C#\Chapter9\파일다루기\직렬화\bin\Debug\직렬화.pdb
+E:\강의자료\C#\Chapter9\파일다루기\직렬화\obj\Debug\직렬화.exe
+E:\강의자료\C#\Chapter9\파일다루기\직렬화\obj\Debug\직렬화.pdb

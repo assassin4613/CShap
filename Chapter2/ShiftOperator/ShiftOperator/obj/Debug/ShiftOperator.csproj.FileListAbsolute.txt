@@ -1,0 +1,7 @@
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.csprojAssemblyReference.cache
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\bin\Debug\ShiftOperator.exe.config
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\bin\Debug\ShiftOperator.exe
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\bin\Debug\ShiftOperator.pdb
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.exe
+E:\강의자료\C#\Chapter2\ShiftOperator\ShiftOperator\obj\Debug\ShiftOperator.pdb

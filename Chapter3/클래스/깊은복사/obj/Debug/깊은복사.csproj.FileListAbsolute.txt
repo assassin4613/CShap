@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter3\클래스\깊은복사\bin\Debug\깊은복사.exe.config
+E:\강의자료\C#\Chapter3\클래스\깊은복사\bin\Debug\깊은복사.exe
+E:\강의자료\C#\Chapter3\클래스\깊은복사\bin\Debug\깊은복사.pdb
+E:\강의자료\C#\Chapter3\클래스\깊은복사\obj\Debug\깊은복사.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter3\클래스\깊은복사\obj\Debug\깊은복사.exe
+E:\강의자료\C#\Chapter3\클래스\깊은복사\obj\Debug\깊은복사.pdb

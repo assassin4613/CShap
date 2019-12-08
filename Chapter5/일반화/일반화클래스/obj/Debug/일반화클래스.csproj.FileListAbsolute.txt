@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter5\일반화\일반화클래스\bin\Debug\일반화클래스.exe.config
+E:\강의자료\C#\Chapter5\일반화\일반화클래스\bin\Debug\일반화클래스.exe
+E:\강의자료\C#\Chapter5\일반화\일반화클래스\bin\Debug\일반화클래스.pdb
+E:\강의자료\C#\Chapter5\일반화\일반화클래스\obj\Debug\일반화클래스.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter5\일반화\일반화클래스\obj\Debug\일반화클래스.exe
+E:\강의자료\C#\Chapter5\일반화\일반화클래스\obj\Debug\일반화클래스.pdb

@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter7\LINQ\기본형식\bin\Debug\기본형식.exe.config
+E:\강의자료\C#\Chapter7\LINQ\기본형식\bin\Debug\기본형식.exe
+E:\강의자료\C#\Chapter7\LINQ\기본형식\bin\Debug\기본형식.pdb
+E:\강의자료\C#\Chapter7\LINQ\기본형식\obj\Debug\기본형식.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter7\LINQ\기본형식\obj\Debug\기본형식.exe
+E:\강의자료\C#\Chapter7\LINQ\기본형식\obj\Debug\기본형식.pdb

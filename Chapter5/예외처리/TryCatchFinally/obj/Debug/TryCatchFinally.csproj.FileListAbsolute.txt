@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter5\예외처리\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+E:\강의자료\C#\Chapter5\예외처리\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+E:\강의자료\C#\Chapter5\예외처리\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+E:\강의자료\C#\Chapter5\예외처리\TryCatchFinally\obj\Debug\TryCatchFinally.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter5\예외처리\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+E:\강의자료\C#\Chapter5\예외처리\TryCatchFinally\obj\Debug\TryCatchFinally.pdb

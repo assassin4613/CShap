@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter9\파일다루기\바이너리읽기_쓰기\bin\Debug\바이너리읽기_쓰기.exe.config
+E:\강의자료\C#\Chapter9\파일다루기\바이너리읽기_쓰기\bin\Debug\바이너리읽기_쓰기.exe
+E:\강의자료\C#\Chapter9\파일다루기\바이너리읽기_쓰기\bin\Debug\바이너리읽기_쓰기.pdb
+E:\강의자료\C#\Chapter9\파일다루기\바이너리읽기_쓰기\obj\Debug\바이너리읽기_쓰기.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter9\파일다루기\바이너리읽기_쓰기\obj\Debug\바이너리읽기_쓰기.exe
+E:\강의자료\C#\Chapter9\파일다루기\바이너리읽기_쓰기\obj\Debug\바이너리읽기_쓰기.pdb

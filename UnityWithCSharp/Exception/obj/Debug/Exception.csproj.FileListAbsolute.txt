@@ -1,0 +1,6 @@
+D:\Development\C#\UnityWithCSharp\Exception\bin\Debug\Exception.exe
+D:\Development\C#\UnityWithCSharp\Exception\bin\Debug\Exception.pdb
+D:\Development\C#\UnityWithCSharp\Exception\obj\Debug\Exception.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\Exception\obj\Debug\Exception.exe
+D:\Development\C#\UnityWithCSharp\Exception\obj\Debug\Exception.pdb

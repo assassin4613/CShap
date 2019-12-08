@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter7\LINQ\From_Where_Orderby_Select\bin\Debug\From_Where_Orderby_Select.exe.config
+E:\강의자료\C#\Chapter7\LINQ\From_Where_Orderby_Select\bin\Debug\From_Where_Orderby_Select.exe
+E:\강의자료\C#\Chapter7\LINQ\From_Where_Orderby_Select\bin\Debug\From_Where_Orderby_Select.pdb
+E:\강의자료\C#\Chapter7\LINQ\From_Where_Orderby_Select\obj\Debug\From_Where_Orderby_Select.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter7\LINQ\From_Where_Orderby_Select\obj\Debug\From_Where_Orderby_Select.exe
+E:\강의자료\C#\Chapter7\LINQ\From_Where_Orderby_Select\obj\Debug\From_Where_Orderby_Select.pdb

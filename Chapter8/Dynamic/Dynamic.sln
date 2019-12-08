@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "오리타이핑_Part1", "오리타이핑_Part1\오리타이핑_Part1.csproj", "{57824ED1-60EE-4077-AB93-2691364EF728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMInterop", "COMInterop\COMInterop.csproj", "{62D0F0D4-B1E2-4A0A-BFCF-37EF4B62DA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57824ED1-60EE-4077-AB93-2691364EF728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57824ED1-60EE-4077-AB93-2691364EF728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57824ED1-60EE-4077-AB93-2691364EF728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57824ED1-60EE-4077-AB93-2691364EF728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D0F0D4-B1E2-4A0A-BFCF-37EF4B62DA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D0F0D4-B1E2-4A0A-BFCF-37EF4B62DA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D0F0D4-B1E2-4A0A-BFCF-37EF4B62DA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D0F0D4-B1E2-4A0A-BFCF-37EF4B62DA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13FB31B1-F879-4947-B0ED-84507E8690C0}
+	EndGlobalSection
+EndGlobal

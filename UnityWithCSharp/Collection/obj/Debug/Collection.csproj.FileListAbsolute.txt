@@ -1,0 +1,12 @@
+D:\Development\C#\UnityWithCSharp\Collection\bin\Debug\Collection.exe
+D:\Development\C#\UnityWithCSharp\Collection\bin\Debug\Collection.pdb
+D:\Development\C#\UnityWithCSharp\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\Collection\obj\Debug\Collection.exe
+D:\Development\C#\UnityWithCSharp\Collection\obj\Debug\Collection.pdb
+E:\학원자료\UnityWithCSharp\Collection\bin\Debug\Collection.exe
+E:\학원자료\UnityWithCSharp\Collection\bin\Debug\Collection.pdb
+E:\학원자료\UnityWithCSharp\Collection\obj\Debug\Collection.csprojAssemblyReference.cache
+E:\학원자료\UnityWithCSharp\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+E:\학원자료\UnityWithCSharp\Collection\obj\Debug\Collection.exe
+E:\학원자료\UnityWithCSharp\Collection\obj\Debug\Collection.pdb

@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter5\예외처리\예외던지기\bin\Debug\예외던지기.exe.config
+E:\강의자료\C#\Chapter5\예외처리\예외던지기\bin\Debug\예외던지기.exe
+E:\강의자료\C#\Chapter5\예외처리\예외던지기\bin\Debug\예외던지기.pdb
+E:\강의자료\C#\Chapter5\예외처리\예외던지기\obj\Debug\예외던지기.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter5\예외처리\예외던지기\obj\Debug\예외던지기.exe
+E:\강의자료\C#\Chapter5\예외처리\예외던지기\obj\Debug\예외던지기.pdb

@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter9\파일다루기\원하는지점부터데이터읽기\bin\Debug\원하는지점부터데이터읽기.exe.config
+E:\강의자료\C#\Chapter9\파일다루기\원하는지점부터데이터읽기\bin\Debug\원하는지점부터데이터읽기.exe
+E:\강의자료\C#\Chapter9\파일다루기\원하는지점부터데이터읽기\bin\Debug\원하는지점부터데이터읽기.pdb
+E:\강의자료\C#\Chapter9\파일다루기\원하는지점부터데이터읽기\obj\Debug\원하는지점부터데이터읽기.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter9\파일다루기\원하는지점부터데이터읽기\obj\Debug\원하는지점부터데이터읽기.exe
+E:\강의자료\C#\Chapter9\파일다루기\원하는지점부터데이터읽기\obj\Debug\원하는지점부터데이터읽기.pdb

@@ -1,0 +1,6 @@
+D:\Development\C#\UnityWithCSharp\Property\bin\Debug\Property.exe
+D:\Development\C#\UnityWithCSharp\Property\bin\Debug\Property.pdb
+D:\Development\C#\UnityWithCSharp\Property\obj\Debug\Property.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\Property\obj\Debug\Property.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\Property\obj\Debug\Property.exe
+D:\Development\C#\UnityWithCSharp\Property\obj\Debug\Property.pdb

@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "델리게이트형식", "델리게이트형식\델리게이트형식.csproj", "{07388AC6-555B-4B73-B3F7-AC60C8F650A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "콜백으로사용", "콜백으로사용\콜백으로사용.csproj", "{EC211A7E-8BA5-4361-A29E-0FAFACE7B21B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "일반화델리게이트", "일반화델리게이트\일반화델리게이트.csproj", "{9B2DD030-4060-4110-ADA6-0CD43A131794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "델리게이트체인", "델리게이트체인\델리게이트체인.csproj", "{0852AA00-F686-47E8-9D8D-FAEB421494D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "익명메소드", "익명메소드\익명메소드.csproj", "{D67CF256-1005-47E4-9C0A-97495CFB6002}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "이벤트형식", "이벤트형식\이벤트형식.csproj", "{B48216D4-CA62-404C-83FF-6571B470A3EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "이벤트", "이벤트\이벤트.csproj", "{EE02C519-74A9-4964-9551-F72EE54F779A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07388AC6-555B-4B73-B3F7-AC60C8F650A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07388AC6-555B-4B73-B3F7-AC60C8F650A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07388AC6-555B-4B73-B3F7-AC60C8F650A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07388AC6-555B-4B73-B3F7-AC60C8F650A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC211A7E-8BA5-4361-A29E-0FAFACE7B21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC211A7E-8BA5-4361-A29E-0FAFACE7B21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC211A7E-8BA5-4361-A29E-0FAFACE7B21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC211A7E-8BA5-4361-A29E-0FAFACE7B21B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2DD030-4060-4110-ADA6-0CD43A131794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2DD030-4060-4110-ADA6-0CD43A131794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2DD030-4060-4110-ADA6-0CD43A131794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2DD030-4060-4110-ADA6-0CD43A131794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0852AA00-F686-47E8-9D8D-FAEB421494D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0852AA00-F686-47E8-9D8D-FAEB421494D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0852AA00-F686-47E8-9D8D-FAEB421494D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0852AA00-F686-47E8-9D8D-FAEB421494D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D67CF256-1005-47E4-9C0A-97495CFB6002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67CF256-1005-47E4-9C0A-97495CFB6002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67CF256-1005-47E4-9C0A-97495CFB6002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67CF256-1005-47E4-9C0A-97495CFB6002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B48216D4-CA62-404C-83FF-6571B470A3EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48216D4-CA62-404C-83FF-6571B470A3EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48216D4-CA62-404C-83FF-6571B470A3EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48216D4-CA62-404C-83FF-6571B470A3EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE02C519-74A9-4964-9551-F72EE54F779A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE02C519-74A9-4964-9551-F72EE54F779A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE02C519-74A9-4964-9551-F72EE54F779A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE02C519-74A9-4964-9551-F72EE54F779A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9053CDA9-A4AF-4B3B-994E-007311BABBDA}
+	EndGlobalSection
+EndGlobal

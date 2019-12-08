@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter8\리플렉션\형식내보내기_Part3\bin\Debug\형식내보내기_Part3.exe.config
+E:\강의자료\C#\Chapter8\리플렉션\형식내보내기_Part3\bin\Debug\형식내보내기_Part3.exe
+E:\강의자료\C#\Chapter8\리플렉션\형식내보내기_Part3\bin\Debug\형식내보내기_Part3.pdb
+E:\강의자료\C#\Chapter8\리플렉션\형식내보내기_Part3\obj\Debug\형식내보내기_Part3.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter8\리플렉션\형식내보내기_Part3\obj\Debug\형식내보내기_Part3.exe
+E:\강의자료\C#\Chapter8\리플렉션\형식내보내기_Part3\obj\Debug\형식내보내기_Part3.pdb

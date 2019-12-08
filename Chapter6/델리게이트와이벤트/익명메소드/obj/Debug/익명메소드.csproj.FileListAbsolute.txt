@@ -1,0 +1,6 @@
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\익명메소드\bin\Debug\익명메소드.exe.config
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\익명메소드\bin\Debug\익명메소드.exe
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\익명메소드\bin\Debug\익명메소드.pdb
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\익명메소드\obj\Debug\익명메소드.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\익명메소드\obj\Debug\익명메소드.exe
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\익명메소드\obj\Debug\익명메소드.pdb

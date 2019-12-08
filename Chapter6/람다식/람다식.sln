@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "람다식형식", "람다식형식\람다식형식.csproj", "{EA48B26C-8779-4DAF-8A36-E563169A2135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "다중라인람다", "다중라인람다\다중라인람다.csproj", "{56609097-E926-4DFB-A564-EA3CA311A1F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func델리게이트", "Func델리게이트\Func델리게이트.csproj", "{D7348570-E19F-4A59-8DC2-C3E44DB8F1B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Action델리게이트", "Action델리게이트\Action델리게이트.csproj", "{15C3EAAC-AE50-479C-898E-E4CF30BB6DFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression사용", "Expression사용\Expression사용.csproj", "{8C6553E0-E475-434F-B912-6CD1FBDB4ADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Expression을람다로표현", "Expression을람다로표현\Expression을람다로표현.csproj", "{C263D020-86F4-4919-91C5-A8039826D8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA48B26C-8779-4DAF-8A36-E563169A2135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA48B26C-8779-4DAF-8A36-E563169A2135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA48B26C-8779-4DAF-8A36-E563169A2135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA48B26C-8779-4DAF-8A36-E563169A2135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56609097-E926-4DFB-A564-EA3CA311A1F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56609097-E926-4DFB-A564-EA3CA311A1F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56609097-E926-4DFB-A564-EA3CA311A1F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56609097-E926-4DFB-A564-EA3CA311A1F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7348570-E19F-4A59-8DC2-C3E44DB8F1B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7348570-E19F-4A59-8DC2-C3E44DB8F1B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7348570-E19F-4A59-8DC2-C3E44DB8F1B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7348570-E19F-4A59-8DC2-C3E44DB8F1B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C3EAAC-AE50-479C-898E-E4CF30BB6DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C3EAAC-AE50-479C-898E-E4CF30BB6DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C3EAAC-AE50-479C-898E-E4CF30BB6DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C3EAAC-AE50-479C-898E-E4CF30BB6DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C6553E0-E475-434F-B912-6CD1FBDB4ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C6553E0-E475-434F-B912-6CD1FBDB4ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C6553E0-E475-434F-B912-6CD1FBDB4ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C6553E0-E475-434F-B912-6CD1FBDB4ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C263D020-86F4-4919-91C5-A8039826D8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C263D020-86F4-4919-91C5-A8039826D8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C263D020-86F4-4919-91C5-A8039826D8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C263D020-86F4-4919-91C5-A8039826D8F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A7182A9-E6B3-4C22-A13B-B998F8343AC2}
+	EndGlobalSection
+EndGlobal

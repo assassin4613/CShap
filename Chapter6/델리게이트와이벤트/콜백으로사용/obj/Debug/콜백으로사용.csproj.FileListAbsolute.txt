@@ -1,0 +1,6 @@
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\콜백으로사용\bin\Debug\콜백으로사용.exe.config
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\콜백으로사용\bin\Debug\콜백으로사용.exe
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\콜백으로사용\bin\Debug\콜백으로사용.pdb
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\콜백으로사용\obj\Debug\콜백으로사용.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\콜백으로사용\obj\Debug\콜백으로사용.exe
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\콜백으로사용\obj\Debug\콜백으로사용.pdb

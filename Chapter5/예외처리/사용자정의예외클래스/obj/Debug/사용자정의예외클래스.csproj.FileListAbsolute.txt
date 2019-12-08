@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter5\예외처리\사용자정의예외클래스\bin\Debug\사용자정의예외클래스.exe.config
+E:\강의자료\C#\Chapter5\예외처리\사용자정의예외클래스\bin\Debug\사용자정의예외클래스.exe
+E:\강의자료\C#\Chapter5\예외처리\사용자정의예외클래스\bin\Debug\사용자정의예외클래스.pdb
+E:\강의자료\C#\Chapter5\예외처리\사용자정의예외클래스\obj\Debug\사용자정의예외클래스.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter5\예외처리\사용자정의예외클래스\obj\Debug\사용자정의예외클래스.exe
+E:\강의자료\C#\Chapter5\예외처리\사용자정의예외클래스\obj\Debug\사용자정의예외클래스.pdb

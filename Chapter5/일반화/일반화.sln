@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "일반화메소드", "일반화메소드\일반화메소드.csproj", "{B36EAB6A-61C9-4C26-BF62-747548C32292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "일반화클래스", "일반화클래스\일반화클래스.csproj", "{A62102EC-B89C-4F07-964E-80802E11FA4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "형식매개변수의제약", "형식매개변수의제약\형식매개변수의제약.csproj", "{7F322ADB-1080-45B0-BBA3-4DEC472314C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "일반화컬렉션_List", "일반화컬렉션_List\일반화컬렉션_List.csproj", "{DE22671B-ACC1-4C99-B44D-757C175D8D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "일반화컬렉션_Dictionary", "일반화컬렉션_Dictionary\일반화컬렉션_Dictionary.csproj", "{6387B426-E794-4E95-B01F-BE61556B9D98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumerableGeneric", "EnumerableGeneric\EnumerableGeneric.csproj", "{2C8EFC8F-C608-4D36-B927-D24606D98756}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B36EAB6A-61C9-4C26-BF62-747548C32292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B36EAB6A-61C9-4C26-BF62-747548C32292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B36EAB6A-61C9-4C26-BF62-747548C32292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B36EAB6A-61C9-4C26-BF62-747548C32292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A62102EC-B89C-4F07-964E-80802E11FA4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62102EC-B89C-4F07-964E-80802E11FA4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62102EC-B89C-4F07-964E-80802E11FA4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62102EC-B89C-4F07-964E-80802E11FA4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F322ADB-1080-45B0-BBA3-4DEC472314C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F322ADB-1080-45B0-BBA3-4DEC472314C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F322ADB-1080-45B0-BBA3-4DEC472314C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F322ADB-1080-45B0-BBA3-4DEC472314C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE22671B-ACC1-4C99-B44D-757C175D8D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE22671B-ACC1-4C99-B44D-757C175D8D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE22671B-ACC1-4C99-B44D-757C175D8D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE22671B-ACC1-4C99-B44D-757C175D8D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6387B426-E794-4E95-B01F-BE61556B9D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6387B426-E794-4E95-B01F-BE61556B9D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6387B426-E794-4E95-B01F-BE61556B9D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6387B426-E794-4E95-B01F-BE61556B9D98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C8EFC8F-C608-4D36-B927-D24606D98756}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8EFC8F-C608-4D36-B927-D24606D98756}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8EFC8F-C608-4D36-B927-D24606D98756}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8EFC8F-C608-4D36-B927-D24606D98756}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C8B9129-B7ED-4BB9-829F-19A55F1FA82C}
+	EndGlobalSection
+EndGlobal

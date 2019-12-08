@@ -1,0 +1,7 @@
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\bin\Debug\GroupBy.exe.config
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\bin\Debug\GroupBy.exe
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\bin\Debug\GroupBy.pdb
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\obj\Debug\GroupBy.csprojAssemblyReference.cache
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\obj\Debug\GroupBy.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\obj\Debug\GroupBy.exe
+E:\강의자료\C#\Chapter7\LINQ\GroupBy\obj\Debug\GroupBy.pdb

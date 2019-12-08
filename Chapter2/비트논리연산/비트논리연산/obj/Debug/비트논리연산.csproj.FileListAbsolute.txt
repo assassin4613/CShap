@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter2\비트논리연산\비트논리연산\bin\Debug\비트논리연산.exe.config
+E:\강의자료\C#\Chapter2\비트논리연산\비트논리연산\bin\Debug\비트논리연산.exe
+E:\강의자료\C#\Chapter2\비트논리연산\비트논리연산\bin\Debug\비트논리연산.pdb
+E:\강의자료\C#\Chapter2\비트논리연산\비트논리연산\obj\Debug\비트논리연산.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter2\비트논리연산\비트논리연산\obj\Debug\비트논리연산.exe
+E:\강의자료\C#\Chapter2\비트논리연산\비트논리연산\obj\Debug\비트논리연산.pdb

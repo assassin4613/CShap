@@ -1,0 +1,6 @@
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\일반화델리게이트\bin\Debug\일반화델리게이트.exe.config
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\일반화델리게이트\bin\Debug\일반화델리게이트.exe
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\일반화델리게이트\bin\Debug\일반화델리게이트.pdb
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\일반화델리게이트\obj\Debug\일반화델리게이트.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\일반화델리게이트\obj\Debug\일반화델리게이트.exe
+F:\강의자료\C#\Chapter6\델리게이트와이벤트\일반화델리게이트\obj\Debug\일반화델리게이트.pdb

@@ -1,0 +1,7 @@
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\bin\Debug\디렉토리_파일생성.exe.config
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\bin\Debug\디렉토리_파일생성.exe
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\bin\Debug\디렉토리_파일생성.pdb
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\obj\Debug\디렉토리_파일생성.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\obj\Debug\디렉토리_파일생성.exe
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\obj\Debug\디렉토리_파일생성.pdb
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일생성\obj\Debug\디렉토리_파일생성.csprojAssemblyReference.cache

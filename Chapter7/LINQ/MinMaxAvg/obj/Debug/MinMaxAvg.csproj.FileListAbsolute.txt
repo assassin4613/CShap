@@ -1,0 +1,6 @@
+E:\강의자료\C#\Chapter7\LINQ\MinMaxAvg\bin\Debug\MinMaxAvg.exe.config
+E:\강의자료\C#\Chapter7\LINQ\MinMaxAvg\bin\Debug\MinMaxAvg.exe
+E:\강의자료\C#\Chapter7\LINQ\MinMaxAvg\bin\Debug\MinMaxAvg.pdb
+E:\강의자료\C#\Chapter7\LINQ\MinMaxAvg\obj\Debug\MinMaxAvg.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter7\LINQ\MinMaxAvg\obj\Debug\MinMaxAvg.exe
+E:\강의자료\C#\Chapter7\LINQ\MinMaxAvg\obj\Debug\MinMaxAvg.pdb

@@ -1,0 +1,12 @@
+D:\Development\C#\UnityWithCSharp\StringEx\bin\Debug\StringEx.exe
+D:\Development\C#\UnityWithCSharp\StringEx\bin\Debug\StringEx.pdb
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\ObjectEx.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\StringEx.exe
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\StringEx.pdb
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\ObjectEx.csprojAssemblyReference.cache
+E:\학원자료\UnityWithCSharp\ObjectEx\bin\Debug\StringEx.exe
+E:\학원자료\UnityWithCSharp\ObjectEx\bin\Debug\StringEx.pdb
+E:\학원자료\UnityWithCSharp\ObjectEx\obj\Debug\ObjectEx.csprojAssemblyReference.cache
+E:\학원자료\UnityWithCSharp\ObjectEx\obj\Debug\ObjectEx.csproj.CoreCompileInputs.cache
+E:\학원자료\UnityWithCSharp\ObjectEx\obj\Debug\StringEx.exe
+E:\학원자료\UnityWithCSharp\ObjectEx\obj\Debug\StringEx.pdb

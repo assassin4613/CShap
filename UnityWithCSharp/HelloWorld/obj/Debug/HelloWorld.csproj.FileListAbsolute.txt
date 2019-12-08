@@ -1,0 +1,12 @@
+D:\Development\C#\UnityWithCSharp\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Development\C#\UnityWithCSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Development\C#\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Development\C#\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\학원자료\UnityWithCSharp\HelloWorld\bin\Debug\HelloWorld.exe
+E:\학원자료\UnityWithCSharp\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\학원자료\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+E:\학원자료\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+E:\학원자료\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.exe
+E:\학원자료\UnityWithCSharp\HelloWorld\obj\Debug\HelloWorld.pdb

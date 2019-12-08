@@ -1,0 +1,6 @@
+D:\Development\C#\UnityWithCSharp\Event\bin\Debug\Event.exe
+D:\Development\C#\UnityWithCSharp\Event\bin\Debug\Event.pdb
+D:\Development\C#\UnityWithCSharp\Event\obj\Debug\Event.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\Event\obj\Debug\Event.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\Event\obj\Debug\Event.exe
+D:\Development\C#\UnityWithCSharp\Event\obj\Debug\Event.pdb

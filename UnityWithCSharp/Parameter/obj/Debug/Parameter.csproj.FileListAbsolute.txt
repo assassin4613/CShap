@@ -1,0 +1,7 @@
+E:\학원자료\UnityWithCSharp\Parameter\bin\Debug\Parameter.exe.config
+E:\학원자료\UnityWithCSharp\Parameter\bin\Debug\Parameter.exe
+E:\학원자료\UnityWithCSharp\Parameter\bin\Debug\Parameter.pdb
+E:\학원자료\UnityWithCSharp\Parameter\obj\Debug\Parameter.csprojAssemblyReference.cache
+E:\학원자료\UnityWithCSharp\Parameter\obj\Debug\Parameter.csproj.CoreCompileInputs.cache
+E:\학원자료\UnityWithCSharp\Parameter\obj\Debug\Parameter.exe
+E:\학원자료\UnityWithCSharp\Parameter\obj\Debug\Parameter.pdb

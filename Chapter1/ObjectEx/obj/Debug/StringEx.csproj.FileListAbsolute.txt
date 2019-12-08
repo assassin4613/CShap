@@ -1,0 +1,6 @@
+D:\Development\C#\UnityWithCSharp\StringEx\bin\Debug\StringEx.exe
+D:\Development\C#\UnityWithCSharp\StringEx\bin\Debug\StringEx.pdb
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\StringEx.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\StringEx.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\StringEx.exe
+D:\Development\C#\UnityWithCSharp\StringEx\obj\Debug\StringEx.pdb

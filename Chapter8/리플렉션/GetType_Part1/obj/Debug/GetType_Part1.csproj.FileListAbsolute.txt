@@ -1,0 +1,7 @@
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\bin\Debug\GetType_Part1.exe.config
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\bin\Debug\GetType_Part1.exe
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\bin\Debug\GetType_Part1.pdb
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\obj\Debug\GetType_Part1.csprojAssemblyReference.cache
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\obj\Debug\GetType_Part1.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\obj\Debug\GetType_Part1.exe
+E:\강의자료\C#\Chapter8\리플렉션\GetType_Part1\obj\Debug\GetType_Part1.pdb

@@ -1,0 +1,7 @@
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\obj\Debug\COMInterop.csproj.ResolveComReference.cache
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\obj\Debug\COMInterop.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\bin\Debug\COMInterop.exe.config
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\bin\Debug\COMInterop.exe
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\bin\Debug\COMInterop.pdb
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\obj\Debug\COMInterop.exe
+E:\강의자료\C#\Chapter8\Dynamic\COMInterop\obj\Debug\COMInterop.pdb

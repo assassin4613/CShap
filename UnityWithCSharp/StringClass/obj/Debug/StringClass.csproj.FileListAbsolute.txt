@@ -1,0 +1,12 @@
+D:\Development\C#\UnityWithCSharp\StringClass\bin\Debug\StringClass.exe
+D:\Development\C#\UnityWithCSharp\StringClass\bin\Debug\StringClass.pdb
+D:\Development\C#\UnityWithCSharp\StringClass\obj\Debug\StringClass.csprojAssemblyReference.cache
+D:\Development\C#\UnityWithCSharp\StringClass\obj\Debug\StringClass.csproj.CoreCompileInputs.cache
+D:\Development\C#\UnityWithCSharp\StringClass\obj\Debug\StringClass.exe
+D:\Development\C#\UnityWithCSharp\StringClass\obj\Debug\StringClass.pdb
+E:\학원자료\UnityWithCSharp\StringClass\bin\Debug\StringClass.exe
+E:\학원자료\UnityWithCSharp\StringClass\bin\Debug\StringClass.pdb
+E:\학원자료\UnityWithCSharp\StringClass\obj\Debug\StringClass.csprojAssemblyReference.cache
+E:\학원자료\UnityWithCSharp\StringClass\obj\Debug\StringClass.csproj.CoreCompileInputs.cache
+E:\학원자료\UnityWithCSharp\StringClass\obj\Debug\StringClass.exe
+E:\학원자료\UnityWithCSharp\StringClass\obj\Debug\StringClass.pdb

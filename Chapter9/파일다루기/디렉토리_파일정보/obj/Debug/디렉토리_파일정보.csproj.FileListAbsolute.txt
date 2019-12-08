@@ -1,0 +1,7 @@
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\bin\Debug\디렉토리_파일정보.exe.config
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\bin\Debug\디렉토리_파일정보.exe
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\bin\Debug\디렉토리_파일정보.pdb
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\obj\Debug\디렉토리_파일정보.csprojAssemblyReference.cache
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\obj\Debug\디렉토리_파일정보.csproj.CoreCompileInputs.cache
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\obj\Debug\디렉토리_파일정보.exe
+E:\강의자료\C#\Chapter9\파일다루기\디렉토리_파일정보\obj\Debug\디렉토리_파일정보.pdb

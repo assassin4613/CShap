@@ -1,0 +1,7 @@
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\bin\Debug\프로퍼티.exe.config
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\bin\Debug\프로퍼티.exe
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\bin\Debug\프로퍼티.pdb
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\obj\Debug\프로퍼티.csprojAssemblyReference.cache
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\obj\Debug\프로퍼티.csproj.CoreCompileInputs.cache
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\obj\Debug\프로퍼티.exe
+C:\Users\assas\source\repos\프로퍼티\프로퍼티\obj\Debug\프로퍼티.pdb

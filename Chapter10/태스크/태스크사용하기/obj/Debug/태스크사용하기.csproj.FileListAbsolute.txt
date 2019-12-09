@@ -1,0 +1,7 @@
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\bin\Debug\태스크사용하기.exe.config
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\bin\Debug\태스크사용하기.exe
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\bin\Debug\태스크사용하기.pdb
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\obj\Debug\태스크사용하기.csprojAssemblyReference.cache
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\obj\Debug\태스크사용하기.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\obj\Debug\태스크사용하기.exe
+F:\강의자료\C#\Chapter10\태스크\태스크사용하기\obj\Debug\태스크사용하기.pdb

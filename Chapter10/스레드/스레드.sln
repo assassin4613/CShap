@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스레드기본", "스레드기본\스레드기본.csproj", "{1B2076DF-965E-45E0-B151-6795E44497B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스레드중단시키기", "스레드중단시키기\스레드중단시키기.csproj", "{0E50B83F-7717-42E0-BF74-C698398CFE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스레드의상태", "스레드의상태\스레드의상태.csproj", "{75716373-601C-443A-AB20-AF84C8D5E4CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스레드중단시키기_인터럽트", "스레드중단시키기_인터럽트\스레드중단시키기_인터럽트.csproj", "{EF00718F-A204-4ADE-A773-DAF2C27EC935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "스레드동기화", "스레드동기화\스레드동기화.csproj", "{28CE2E0A-25AC-46D0-ADF8-237630403E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "모니터사용하기", "모니터사용하기\모니터사용하기.csproj", "{5A3FB8DC-6187-4D11-BA30-35B4CBAFDF3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "모니터저수준동기화", "모니터저수준동기화\모니터저수준동기화.csproj", "{1336CC45-2868-4878-914A-1B2A82F3480B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B2076DF-965E-45E0-B151-6795E44497B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B2076DF-965E-45E0-B151-6795E44497B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B2076DF-965E-45E0-B151-6795E44497B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B2076DF-965E-45E0-B151-6795E44497B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E50B83F-7717-42E0-BF74-C698398CFE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E50B83F-7717-42E0-BF74-C698398CFE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E50B83F-7717-42E0-BF74-C698398CFE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E50B83F-7717-42E0-BF74-C698398CFE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75716373-601C-443A-AB20-AF84C8D5E4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75716373-601C-443A-AB20-AF84C8D5E4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75716373-601C-443A-AB20-AF84C8D5E4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75716373-601C-443A-AB20-AF84C8D5E4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF00718F-A204-4ADE-A773-DAF2C27EC935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF00718F-A204-4ADE-A773-DAF2C27EC935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF00718F-A204-4ADE-A773-DAF2C27EC935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF00718F-A204-4ADE-A773-DAF2C27EC935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28CE2E0A-25AC-46D0-ADF8-237630403E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28CE2E0A-25AC-46D0-ADF8-237630403E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28CE2E0A-25AC-46D0-ADF8-237630403E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28CE2E0A-25AC-46D0-ADF8-237630403E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3FB8DC-6187-4D11-BA30-35B4CBAFDF3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3FB8DC-6187-4D11-BA30-35B4CBAFDF3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3FB8DC-6187-4D11-BA30-35B4CBAFDF3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3FB8DC-6187-4D11-BA30-35B4CBAFDF3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1336CC45-2868-4878-914A-1B2A82F3480B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1336CC45-2868-4878-914A-1B2A82F3480B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1336CC45-2868-4878-914A-1B2A82F3480B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1336CC45-2868-4878-914A-1B2A82F3480B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {175FC0DC-1A07-490B-9296-80EC6763D14D}
+	EndGlobalSection
+EndGlobal

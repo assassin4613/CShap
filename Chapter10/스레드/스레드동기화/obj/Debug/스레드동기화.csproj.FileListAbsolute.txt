@@ -1,0 +1,6 @@
+F:\강의자료\C#\Chapter10\스레드\스레드동기화\bin\Debug\스레드동기화.exe.config
+F:\강의자료\C#\Chapter10\스레드\스레드동기화\bin\Debug\스레드동기화.exe
+F:\강의자료\C#\Chapter10\스레드\스레드동기화\bin\Debug\스레드동기화.pdb
+F:\강의자료\C#\Chapter10\스레드\스레드동기화\obj\Debug\스레드동기화.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter10\스레드\스레드동기화\obj\Debug\스레드동기화.exe
+F:\강의자료\C#\Chapter10\스레드\스레드동기화\obj\Debug\스레드동기화.pdb

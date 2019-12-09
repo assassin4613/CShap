@@ -1,0 +1,6 @@
+F:\강의자료\C#\Chapter10\스레드\스레드의상태\bin\Debug\스레드의상태.exe.config
+F:\강의자료\C#\Chapter10\스레드\스레드의상태\bin\Debug\스레드의상태.exe
+F:\강의자료\C#\Chapter10\스레드\스레드의상태\bin\Debug\스레드의상태.pdb
+F:\강의자료\C#\Chapter10\스레드\스레드의상태\obj\Debug\스레드의상태.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter10\스레드\스레드의상태\obj\Debug\스레드의상태.exe
+F:\강의자료\C#\Chapter10\스레드\스레드의상태\obj\Debug\스레드의상태.pdb

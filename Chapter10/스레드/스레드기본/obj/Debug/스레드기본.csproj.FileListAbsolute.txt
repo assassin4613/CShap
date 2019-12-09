@@ -1,0 +1,7 @@
+F:\강의자료\C#\Chapter10\스레드\스레드기본\bin\Debug\스레드기본.exe.config
+F:\강의자료\C#\Chapter10\스레드\스레드기본\bin\Debug\스레드기본.exe
+F:\강의자료\C#\Chapter10\스레드\스레드기본\bin\Debug\스레드기본.pdb
+F:\강의자료\C#\Chapter10\스레드\스레드기본\obj\Debug\스레드기본.csprojAssemblyReference.cache
+F:\강의자료\C#\Chapter10\스레드\스레드기본\obj\Debug\스레드기본.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter10\스레드\스레드기본\obj\Debug\스레드기본.exe
+F:\강의자료\C#\Chapter10\스레드\스레드기본\obj\Debug\스레드기본.pdb

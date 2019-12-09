@@ -1,0 +1,6 @@
+F:\강의자료\C#\Chapter10\태스크\비동기화파일입출력\bin\Debug\비동기화파일입출력.exe.config
+F:\강의자료\C#\Chapter10\태스크\비동기화파일입출력\bin\Debug\비동기화파일입출력.exe
+F:\강의자료\C#\Chapter10\태스크\비동기화파일입출력\bin\Debug\비동기화파일입출력.pdb
+F:\강의자료\C#\Chapter10\태스크\비동기화파일입출력\obj\Debug\비동기화파일입출력.csproj.CoreCompileInputs.cache
+F:\강의자료\C#\Chapter10\태스크\비동기화파일입출력\obj\Debug\비동기화파일입출력.exe
+F:\강의자료\C#\Chapter10\태스크\비동기화파일입출력\obj\Debug\비동기화파일입출력.pdb

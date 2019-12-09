@@ -5,6 +5,20 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "간단한WinForms", "간단한WinForms\간단한WinForms.csproj", "{A755BE06-78BB-4B5D-BE31-163C605AEFED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application클래스", "Application클래스\Application클래스.csproj", "{E5876ABE-E3FD-43A5-A1C2-B1DD68884E7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "메세지필터", "메세지필터\메세지필터.csproj", "{92124749-655A-4910-AA2A-6BC5E79CC0E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form이벤트", "Form이벤트\Form이벤트.csproj", "{D0963985-252B-4EAA-86F1-AFE5681308CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form크기조절", "Form크기조절\Form크기조절.csproj", "{192C25D7-AA13-4AFB-9BC1-D04386E16B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form백그라운드설정", "Form백그라운드설정\Form백그라운드설정.csproj", "{9AF7213A-230C-4BD5-982B-75345FB86088}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form스타일", "Form스타일\Form스타일.csproj", "{8DE258FF-D5AC-4DD6-83CD-903DCC135F02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form컨트롤러", "Form컨트롤러\Form컨트롤러.csproj", "{F685B16D-2F71-4108-8C73-4A25BA51F243}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +29,34 @@ Global
 		{A755BE06-78BB-4B5D-BE31-163C605AEFED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A755BE06-78BB-4B5D-BE31-163C605AEFED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A755BE06-78BB-4B5D-BE31-163C605AEFED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5876ABE-E3FD-43A5-A1C2-B1DD68884E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5876ABE-E3FD-43A5-A1C2-B1DD68884E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5876ABE-E3FD-43A5-A1C2-B1DD68884E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5876ABE-E3FD-43A5-A1C2-B1DD68884E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92124749-655A-4910-AA2A-6BC5E79CC0E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92124749-655A-4910-AA2A-6BC5E79CC0E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92124749-655A-4910-AA2A-6BC5E79CC0E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92124749-655A-4910-AA2A-6BC5E79CC0E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0963985-252B-4EAA-86F1-AFE5681308CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0963985-252B-4EAA-86F1-AFE5681308CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0963985-252B-4EAA-86F1-AFE5681308CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0963985-252B-4EAA-86F1-AFE5681308CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{192C25D7-AA13-4AFB-9BC1-D04386E16B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{192C25D7-AA13-4AFB-9BC1-D04386E16B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{192C25D7-AA13-4AFB-9BC1-D04386E16B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{192C25D7-AA13-4AFB-9BC1-D04386E16B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF7213A-230C-4BD5-982B-75345FB86088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF7213A-230C-4BD5-982B-75345FB86088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF7213A-230C-4BD5-982B-75345FB86088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF7213A-230C-4BD5-982B-75345FB86088}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE258FF-D5AC-4DD6-83CD-903DCC135F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE258FF-D5AC-4DD6-83CD-903DCC135F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE258FF-D5AC-4DD6-83CD-903DCC135F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE258FF-D5AC-4DD6-83CD-903DCC135F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F685B16D-2F71-4108-8C73-4A25BA51F243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F685B16D-2F71-4108-8C73-4A25BA51F243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F685B16D-2F71-4108-8C73-4A25BA51F243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F685B16D-2F71-4108-8C73-4A25BA51F243}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

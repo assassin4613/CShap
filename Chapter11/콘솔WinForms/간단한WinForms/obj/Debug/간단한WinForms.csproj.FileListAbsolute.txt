@@ -5,3 +5,10 @@ F:\강의자료\C#\Chapter11\콘솔WinForms\간단한WinForms\bin\Debug\간단�
 F:\강의자료\C#\Chapter11\콘솔WinForms\간단한WinForms\bin\Debug\간단한WinForms.pdb
 F:\강의자료\C#\Chapter11\콘솔WinForms\간단한WinForms\obj\Debug\간단한WinForms.exe
 F:\강의자료\C#\Chapter11\콘솔WinForms\간단한WinForms\obj\Debug\간단한WinForms.pdb
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\bin\Debug\간단한WinForms.exe.config
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\bin\Debug\간단한WinForms.exe
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\bin\Debug\간단한WinForms.pdb
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\obj\Debug\간단한WinForms.csprojAssemblyReference.cache
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\obj\Debug\간단한WinForms.csproj.CoreCompileInputs.cache
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\obj\Debug\간단한WinForms.exe
+D:\Aducation\CShap\Chapter11\콘솔WinForms\간단한WinForms\obj\Debug\간단한WinForms.pdb

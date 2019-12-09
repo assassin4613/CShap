@@ -1,0 +1,7 @@
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\bin\Debug\Form스타일.exe.config
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\bin\Debug\Form스타일.exe
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\bin\Debug\Form스타일.pdb
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\obj\Debug\Form스타일.csprojAssemblyReference.cache
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\obj\Debug\Form스타일.csproj.CoreCompileInputs.cache
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\obj\Debug\Form스타일.exe
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form스타일\obj\Debug\Form스타일.pdb

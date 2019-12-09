@@ -1,0 +1,6 @@
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form컨트롤러\bin\Debug\Form컨트롤러.exe.config
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form컨트롤러\bin\Debug\Form컨트롤러.exe
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form컨트롤러\bin\Debug\Form컨트롤러.pdb
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form컨트롤러\obj\Debug\Form컨트롤러.csproj.CoreCompileInputs.cache
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form컨트롤러\obj\Debug\Form컨트롤러.exe
+D:\Aducation\CShap\Chapter11\콘솔WinForms\Form컨트롤러\obj\Debug\Form컨트롤러.pdb

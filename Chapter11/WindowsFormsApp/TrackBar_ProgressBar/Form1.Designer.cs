@@ -35,8 +35,8 @@
             this.cboFont = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.tbDummy = new System.Windows.Forms.TrackBar();
             this.pgDummy = new System.Windows.Forms.ProgressBar();
+            this.tbDummy = new System.Windows.Forms.TrackBar();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tbDummy)).BeginInit();
@@ -116,6 +116,14 @@
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "TrackBar&ProgressBar";
             // 
+            // pgDummy
+            // 
+            this.pgDummy.Location = new System.Drawing.Point(29, 75);
+            this.pgDummy.Maximum = 20;
+            this.pgDummy.Name = "pgDummy";
+            this.pgDummy.Size = new System.Drawing.Size(344, 27);
+            this.pgDummy.TabIndex = 1;
+            // 
             // tbDummy
             // 
             this.tbDummy.Location = new System.Drawing.Point(29, 24);
@@ -125,19 +133,11 @@
             this.tbDummy.TabIndex = 0;
             this.tbDummy.Scroll += new System.EventHandler(this.tbDummy_Scroll);
             // 
-            // pgDummy
-            // 
-            this.pgDummy.Location = new System.Drawing.Point(29, 75);
-            this.pgDummy.Maximum = 20;
-            this.pgDummy.Name = "pgDummy";
-            this.pgDummy.Size = new System.Drawing.Size(344, 27);
-            this.pgDummy.TabIndex = 1;
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(460, 454);
+            this.ClientSize = new System.Drawing.Size(464, 362);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Name = "MainForm";

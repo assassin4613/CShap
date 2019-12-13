@@ -12,11 +12,6 @@ namespace AsyncProcess
             InitializeComponent();
         }
 
-        private void MainForm_Load(object sender, EventArgs e)
-        {
-
-        }
-
         private async Task<long> CopyAsync(string FromPath, string ToPath)
         {
             btnSyncCopy.Enabled = false;
@@ -28,13 +23,15 @@ namespace AsyncProcess
                 {
                     byte[] buffer = new byte[1024 * 1024];
                     int nRead = 0;
+
                     while ((nRead = await fromStream.ReadAsync(buffer, 0, buffer.Length)) != 0)
                     {
                         await toStream.WriteAsync(buffer, 0, nRead);
                         totalCopied += nRead;
 
                         //프로그레스바에 현재 파일 복사 상태 표시
-                        pbCopy.Value = (int)(((double)totalCopied / (double)fromStream.Length) * pbCopy.Maximum);
+                        pbCopy.Value 
+                            = (int)(((double)totalCopied / (double)fromStream.Length) * pbCopy.Maximum);
                     }
                 }
             }
@@ -54,13 +51,15 @@ namespace AsyncProcess
                 {
                     byte[] buffer = new byte[1024 * 1024];
                     int nRead = 0;
+
                     while ((nRead = fromStream.Read(buffer, 0, buffer.Length)) != 0)
                     {
                         toStream.Write(buffer, 0, nRead);
                         totalCopied += nRead;
 
                         //프로그래스바에 현재 파일 복사 상태 표시
-                        pbCopy.Value = (int)(((double)totalCopied / (double)fromStream.Length) * pbCopy.Maximum);
+                        pbCopy.Value 
+                            = (int)(((double)totalCopied / (double)fromStream.Length) * pbCopy.Maximum);
                     }
 
                 }

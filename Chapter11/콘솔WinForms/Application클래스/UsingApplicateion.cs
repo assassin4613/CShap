@@ -9,6 +9,7 @@ namespace UsingApplication
         {
             MainApp form = new MainApp();
 
+            //윈도우 영역(프레임과 캡션바를 제외한 영역)를 클릭하면 이벤트를 받게 된다.
             form.Click += new EventHandler((sender, eventArgs) =>
             {
                 Console.WriteLine("Closing Window...");

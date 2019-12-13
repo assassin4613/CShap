@@ -90,8 +90,8 @@ namespace UsingControls
         {
             if(tvDummy.SelectedNode == null)
             {
-                MessageBox.Show("선택된 노드가 없습니다.", "TreeView Test", MessageBoxButtons.OK,
-                                MessageBoxIcon.Error);
+                MessageBox.Show("선택된 노드가 없습니다.", "TreeView Test", 
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
 
                 return;
             }
@@ -132,9 +132,10 @@ namespace UsingControls
 
         void TreeToList(TreeNode Node)
         {
-            //FullPath는 string형이고 string형의 Count는 System.Linq 네임스페이스를 사용해야한다.
+            //FullPath는 string형이고 string형의 Count는 
+            //System.Linq 네임스페이스를 사용해야한다.
             lvDummy.Items.Add(new ListViewItem(new string[] { Node.Text,
-                                                    Node.FullPath.Count(f => f ==  '\\').ToString() }));
+                                  Node.FullPath.Count(f => f ==  '\\').ToString() }));
 
             foreach (TreeNode node in Node.Nodes)
             {
